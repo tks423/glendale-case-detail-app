@@ -1,5 +1,5 @@
 # glendale-case-detail-app
-Enter in an activity id to determine the activity status. App runs in background and notifies in Notification bar. 
+Android app to enter in an activity id to determine the activity status. App runs in background and notifies in Notification bar. 
 
 AsyncTask for running notification process in separate thread from UI thread. When app is running in background, the notification will pop up, checking every minute if the status has changed.
 
